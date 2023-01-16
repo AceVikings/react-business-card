@@ -11,7 +11,7 @@ body {
 
 .footer-box {
   display: flex;
-  position: absolute;
+  /* position: absolute; */
   justify-content: center;
   bottom: 0;
   width: 100%;
